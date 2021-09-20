@@ -6,4 +6,4 @@
 
 ### Projeto 1 - Calculadora de média com seletores
 
-![1](C:\GitHub\EstudoJS\1.PNG)
+![](images\1.PNG)
