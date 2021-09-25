@@ -1,0 +1,215 @@
+/*#29C1C2 #00B1B1 #009494*/
+
+@import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+body {
+  transition: 1s;
+  background-color: #000000;
+  background-image: linear-gradient(147deg, #000000 0%, #434343 74%);
+}
+
+.dark{
+  transition: 1s;
+  background-color: #2d3436;
+  background-image: linear-gradient(315deg, #2d3436 80%, #d3d3d3 74%);
+}
+
+main {
+  transition: 1s;
+  background-color: #000000;
+  background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+  border-radius: 40px;
+}
+
+.dark main{
+  transition: 1s;
+  background-color: #ffffff;
+  background-image: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
+}
+
+h1 {
+  transition: 1s;
+  font-family: "Gemunu Libre", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 42px;
+  color: #1c1c1c;
+  margin-left: 30px;
+}
+
+.dark h1 {
+  color: white;
+  transition: 1s;
+}
+
+
+h3 {
+  transition: 1s;
+  font-family: "Gemunu Libre", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 28px;
+  color: #1c1c1c;
+  margin-left: 30px;
+}
+
+.dark h3 {
+  transition: 1s;
+  color: white;
+}
+
+
+#header {
+  margin-right: 300px;
+}
+
+.container {
+  transition: 1s;
+  background: #ecf4ff;
+  box-shadow: 6px 6px 6px #0e1d2f;
+  border-radius: 20px;
+  margin: 100px;
+  padding: 64px;
+}
+
+.dark .container {
+  transition: 1s;
+  background:	#686868;
+}
+
+#profile {
+  max-height: 300px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 460px;
+}
+
+
+#cabecalho {
+  display: flex;
+  justify-content: space-between;
+}
+
+#github {
+  margin-left: 20px;
+  width: 300px;
+  height: 90px;
+}
+
+#instagram {
+  width: 120px;
+  height: 60px;
+  margin-bottom: 15px;
+}
+
+#codepen {
+  width: 100px;
+  height: 60px;
+}
+
+
+.tema button {
+  transition: 1s;
+  align-self: flex-end;
+  font-family: "Gemunu Libre", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 28px;
+  background: #ecf4ff;
+  border: 2px solid #0e1d2f;
+  box-sizing: border-box;
+  border-radius: 100px;
+  padding: 8px 16px;
+  margin: 36px 16px;
+}
+
+.dark .tema button {
+  transition: 1s;
+  background:	#686868;
+  border: 2px solid white;
+  color: white;
+}
+
+#projetodiv {
+  transition: 1s;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.dark #projetodiv {
+  transition: 1s;
+  color: black;
+}
+
+#conquistas {
+  background: blue;
+}
+
+
+ul {
+  margin-left: 20px;
+  font-size: 40px;
+  line-height: 42px;
+  list-style-type: none;
+}
+
+
+#projetos {
+  transition: 1s;
+  font-family: "Gemunu Libre", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 73px;
+  line-height: 56px;
+  text-align: center;
+  color: white;
+}
+
+.dark #projetos {
+  transition: 1s;
+  color: black;
+}
+
+li {
+  margin-top: 15px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.iframe {
+  display: none;
+}
+
+.dark .teste {
+  transition: 1s;
+  font-family: "Gemunu Libre", sans-serif;
+  font-size: 20px;
+  background: #ecf4ff;
+  border: 3px solid #1c1c1c;
+  color: #1c1c1c;
+  padding: 5px;
+  border-radius: 2px;
+}
+
+.teste {
+  transition: 1s;
+  font-family: "Gemunu Libre", sans-serif;
+  font-size: 20px;
+  background: #1c1c1c;
+  color: #ecf4ff;
+  border: 3px solid #ecf4ff;
+  padding: 5px;
+  border-radius: 2px;
+}
