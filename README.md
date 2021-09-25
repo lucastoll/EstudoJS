@@ -1,13 +1,17 @@
 # EstudoJS
 
- Repositório contendo projetos desenvolvidos com foco no estudo da linguagem JavaScript, começando do básico e avançando, todos os projetos foram desenvolvidos no evento Imersão Dev Alura.
-
-Todos os projetos estão feito no codepen e em arquivos individuais, o codepen permite a visualização e o teste do projeto com o código na hora, sem baixar nada.
+ Repositório contendo projetos desenvolvidos com foco no estudo da linguagem JavaScript, começando do básico e avançando, todos os projetos foram desenvolvidos no evento Imersão Dev Alura, sendo que todos eles estão feitos no codepen e em arquivos individuais, o codepen permite a visualização e o teste do projeto com o código na hora, sem baixar nada.
 
 Projetos em ordem decrescente:
+### Projeto 7 - Certificado
+Página desenvolvida mostrando tudo que foi feito no evento, em um estilo de certificado/portfólio, foi estudado a questão da alteração de tema em conjunto com o JavaScript, além de GitHub, HTML e CSS. <br>
+ <br>Projeto no upado pelo link do repositório no GitHub: https://lucastoll.github.io/EstudoJS/
+ <br>Projeto no codepen: https://codepen.io/lucastoll/pen/vYZzpKr?editors=1000
+![7](https://user-images.githubusercontent.com/86172649/134784363-f3d38b98-287d-464f-ac75-33ae233854d0.PNG)
+
 
 ### Projeto 6 - Super Trunfo & Gwent
-Jogo super trunfo desenvolvido com o temática do game The Witcher 3, contém estrutura de repetição while e for in, funções com return, listas, arrays, tabela e muita injeção de código HTML via JS.
+Jogo super trunfo desenvolvido com a temática do game The Witcher 3, contém estrutura de repetição while e for in, funções com return, listas, arrays, tabela e muita injeção de código HTML via JS.
 
 Projeto no codepen: https://codepen.io/lucastoll/full/NWgzYKE
 ![6](https://user-images.githubusercontent.com/86172649/134443468-353146cf-94b3-4459-b720-a47209b1dd06.PNG)
